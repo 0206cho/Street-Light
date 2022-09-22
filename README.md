@@ -27,6 +27,8 @@
 <img src="libs/앱.png">
 
 ### [ 구현 영상 ]
-<img src="imgs/구현영상.gif">
-
+<div>
+<img src="https://github.com/0206cho/Street-Light/blob/main/libs/%EA%B5%AC%ED%98%84%EC%98%81%EC%83%81.gif"/>
+<img src="https://github.com/0206cho/Street-Light/blob/main/libs/%EA%B5%AC%ED%98%84%EC%98%81%EC%83%812.gif"/>
+</div>
 
