@@ -1,0 +1,4 @@
+#|
+$JSON
+{"authURL":["ai2.appinventor.mit.edu"],"YaVersion":"216","Source":"Form","Properties":{"$Name":"ex","$Type":"Form","$Version":"30","AppName":"StreetLight","PrimaryColor":"&HFF000000","Title":"ex","Uuid":"0","$Components":[{"$Name":"\ubaa9\ub85d\uc120\ud0dd\ubc84\ud2bc1","$Type":"ListPicker","$Version":"9","Width":"-2","Text":"\uc5f0\uacb0","Uuid":"-1422123796"},{"$Name":"\ub808\uc774\ube141","$Type":"Label","$Version":"5","FontSize":"30","TextAlignment":"1","Uuid":"-1895442673"},{"$Name":"\uc54c\ub9bc1","$Type":"Notifier","$Version":"6","Uuid":"-1918042531"},{"$Name":"\ube14\ub8e8\ud22c\uc2a4\ud074\ub77c\uc774\uc5b8\ud2b81","$Type":"BluetoothClient","$Version":"6","Uuid":"-438853042"},{"$Name":"\uc2dc\uacc41","$Type":"Clock","$Version":"4","Uuid":"1773331107"}]}}
+|#
